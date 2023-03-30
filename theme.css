@@ -1,0 +1,38 @@
+body{
+    font-family: calibri;
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+.w-1{width:25%}
+.w-2{width:50%}
+.w3{width:50%}
+.w4{width:75%}
+.title-cont{
+    display: flex;
+    padding-top:10px;
+}
+.body-container{
+    width:100%;
+    margin:0;
+    padding:0;
+    position:relative;
+    background:rgb(23,45,66);
+}
+.btn{
+    font-weight:700!important;
+}
+footer{
+    background-color: black;
+    padding:30px;
+    width:100%;
+    position:relative;
+    bottom:0;
+    margin:0;
+}
+footer ul>li{
+    display: inline;
+}
+.pointer{
+    cursor:pointer;
+}
